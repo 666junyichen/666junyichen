@@ -1,4 +1,7 @@
 ## Hi there 👋
+I’m looking for help with a multimedia retrieval application assignment. :(
+
+
 
 <!--
 **666junyichen/666junyichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
