@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m looking for help with a multimedia retrieval application assignment. :(
+
 
 
 
